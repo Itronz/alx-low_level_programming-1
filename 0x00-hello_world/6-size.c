@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *main - main block
+ * main - main block
  *
  * Description:  with proper grammar, but the outcome is a piece of art
- * 
+ *
  * Return: Always 0
  *
  */
