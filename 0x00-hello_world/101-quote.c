@@ -1,11 +1,7 @@
 #include <unistd.h>
 
 #include <stdio.h>
-
-
-
 /**
- *
  * main - Changes stderr without using printf or puts
  *
  *
