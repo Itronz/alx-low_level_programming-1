@@ -1,13 +1,5 @@
 #include <stdio.h>
-
-/*
-*
-*main - simple example of using puts
-*
-*Return: Always 0
-*
-*   
-*/
+//
 
 int main(void)
 {
