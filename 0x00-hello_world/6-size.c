@@ -2,6 +2,10 @@
 /**
  *
  *
+ *main - Sizes of data types
+ *
+ *
+ *Return: 0
  *
  */
 
