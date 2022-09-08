@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- * main - "Prints with proper grammar"
+ * main - Prints with proper grammar
  *
- *return: 0
+ *return: Always 0
  */
 
 int main(void)
