@@ -13,7 +13,6 @@
  */
 
 int main(void)
-
 {
 	char d = '0';
 
@@ -24,7 +23,6 @@ int main(void)
 	}
 
 	char c = 'a';
-
 	while (c <= 'f')
 	{
 		putchar(c);
